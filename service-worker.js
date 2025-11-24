@@ -1,6 +1,6 @@
 const GEMINI_API_URL = 'https://generativelanguage.googleapis.com/v1beta/models';
 const GEMINI_MODEL_ID = 'gemini-2.5-flash-image';
-const GEMINI_API_KEY = 'AIzaSyA_oXiPlMjUks9bFGh4cRHyYNXNmSBxGQE';
+const GEMINI_API_KEY = 'ADD API KEY HERE';
 const MAX_RETRY_ATTEMPTS = 3;
 const FREE_TIER_RPM = 10;
 const FREE_TIER_RPD = 100;
